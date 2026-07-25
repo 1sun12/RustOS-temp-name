@@ -8,7 +8,7 @@ DoB: 07/25/2026
 
 ## Description
 
-(placeholder) building an OS in Rust 
+(placeholder) building an OS in Rust.
 
 ## Setup
 
