@@ -15,3 +15,10 @@ DoB: 07/25/2026
 (Debian instructions)
 1. Clone repo to a dir of choice 
 2. (temp)
+
+## Resources
+
+### v0.1.0
+1. Compiling a Freestanding Rust Binary | https://os.phil-opp.com/freestanding-rust-binary/
+2. Writing an OS in Rust | https://os.phil-opp.com/
+3. Introduction to QEMU | https://www.qemu.org/docs/master/system/introduction.html
