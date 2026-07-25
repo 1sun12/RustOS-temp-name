@@ -2,5 +2,12 @@
 name = "src-os"
 version = "0.1.0"
 edition = "2024"
+authors = ["contact@reganod.dev", "thedividedgamer"]
 
-[dependencies]
+# profile used by `cargo build`
+[profile.dev]
+panic = "abort" # disable stack unwinding on 'panic'
+
+# profile used by `cargo build --release`
+[profile.release]
+panic = "abort" # disable stack unwinding on 'panic'
